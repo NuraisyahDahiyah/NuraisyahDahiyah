@@ -1,8 +1,13 @@
-[![MasterHead](https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1)](https://nuraisyahdahiyah.io)
+<p align="center">
+  <a href="https://nuraisyahdahiyah.io">
+    <img src="https://cdn.pfps.gg/banners/36143-gaming-4g.gif" alt="MasterHead" width="100%" style="border-radius:10px;">
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Dahiyah!</h1>
-<h3 align="center">A curios student exploring the world of analytics from a marketing background</h3>
-<img align="right" alt="Coding" width="400" src="https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif">
+<h3 align="center">A curious student exploring the world of analytics from a marketing background</h3>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuraisyahdahiyah&label=Profile%20views&color=0e75b6&style=flat" alt="nuraisyahdahiyah" /> </p>
 
