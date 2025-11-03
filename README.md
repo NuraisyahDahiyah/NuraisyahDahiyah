@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuraisyahdahiyah&label=Profile%20views&color=0e75b6&style=flat" alt="nuraisyahdahiyah" /> </p>
 
-- 🔭 I'm currently working on **brushing up my VBA knowledge**
+- 🔭 I'm currently working on **brushing up my VBA skilss**
 
 - 🌱 I’m currently learning **PowerBI and R**
 
