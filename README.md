@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Dahiyah!</h1>
+<h1 align="center">Hey there, I'm Dahiyah!</h1>
 <h3 align="center">A curious student exploring the world of analytics from a marketing background</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
