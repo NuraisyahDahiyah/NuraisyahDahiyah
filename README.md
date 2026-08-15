@@ -5,15 +5,16 @@
 </p>
 
 <h1 align="center">Hey there, Dahiyah here!</h1>
-<h3 align="center">A curious person exploring what technologies have to offer</h3>
+<h3 align="center"> Just a curious person exploring what technologies have to offer</h3>
 
-Hello, I'm Dahiyah. A marketing student focused on data analytics, machine learning, and applying technology to solve business problems.
-### 📚 Projects
+A business grad focused on data analytics, machine learning, and applying technology to solve business problems.
 
 - Analysing and transforming data using Python and SQL.
 - Building and evaluating machine learning models for predictive analytics.
 - Using data-driven approaches to uncover patterns and solve business problems.
 - Building technology-enabled solutions for real-world business challenges.
+
+### 📚 Projects
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/NuraisyahDahiyah/Portfolio-Guide/blob/main/README.md). 
 
