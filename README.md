@@ -9,7 +9,7 @@
 
 ### 📚 Projects
 
-Welcome, where I showcase my projects. 
+Welcome, where I showcase my [projects](https://github.com/NuraisyahDahiyah/Portfolio-Guide/blob/main/README.md). 
 
 ### 🛠️ Tools
 
